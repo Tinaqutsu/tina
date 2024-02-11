@@ -13,6 +13,7 @@ function About() {
 
         
       <div className='content'> 
+           <h4>Junior Software developer</h4>
          <p>
                 I'm a Junior Software developer, but more than that, <br/>
                 I'm an explorer, a dreamer, and a lifelong learner. <br/>
