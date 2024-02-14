@@ -13,6 +13,11 @@
     width: 400px;
     padding-left: 150px;
 }
+.content h4{
+  
+    margin-bottom: 20px;
+   padding-left: 100px;
+ }
 
 .content {
     margin-left: 600px;
@@ -22,7 +27,7 @@
     padding-left: 10px;
     border-radius: 50px;
     width: 400px;
-    padding-top: 50px;
+    padding-top: 10px;
     box-shadow: 0px 10px 30px 20px rgb(231, 127, 158);
     background-color: rgb(223, 207, 211);
 }
