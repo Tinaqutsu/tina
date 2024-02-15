@@ -8,7 +8,7 @@ function About() {
     <section className='about-page'>
       <h2>About</h2>
       <div className='pic-container'>
-        <img src={Pic} alt='My picture'/>
+        <img src={Pic} alt='Myself'/>
       </div>
 
         
@@ -38,4 +38,4 @@ function About() {
   )
 }
 
-export default About
+export default About;

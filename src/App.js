@@ -4,6 +4,7 @@ import Home from './Components/Home/Home';
 import About from './Components/About/About';
 import Skills from './Components/Skills/Skills';
 import Projects from './Components/Projects/projects';
+import Contacts from './Components/Contacts/Contacts';
 
 
 
@@ -16,6 +17,7 @@ function App() {
      <About/>
      <Skills />
      <Projects />
+     <Contacts />
     </div>
   );
 }
