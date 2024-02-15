@@ -12,7 +12,7 @@ import mysql from './skillimage/icon-7.png';
 function Skills() {
   return (
     <div className="container about" id="about">
-      <h4 className="stat-title">My Skills</h4>
+      <h2 className="stat-title">My Skills</h2>
       <div className="about-container">
         <div className="right-about">
           <div className="abt-text">

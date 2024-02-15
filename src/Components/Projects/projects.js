@@ -1,10 +1,10 @@
 import React from 'react';
 import './projects.css';
 import bank from './projectsimages/BankApp (1).PNG';
-import conveter from './projectsimages/conveter.png';
+import metric from './projectsimages/metric (1).PNG';
 import tutor from './projectsimages/tutor.jpg';
 import gadget from './projectsimages/gadget.png';
-import calculator from './projectsimages/calculator.jpg';
+import calculator from './projectsimages/calculator.PNG';
 
 
 
@@ -16,7 +16,7 @@ function projects() {
             </div>
 
             <p className="port-text">
-                Here is some of my work that I've done in various programming languages.
+                Here is some of my work that I've done using various programming languages.
             </p>
 
             <div className="portfolios">
@@ -31,6 +31,10 @@ function projects() {
                             <a href="https://github.com/Code-5X/bank-app-final" className="icon">
                                 <i className="fab fa-github"></i>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
                                 </a>
+
+                                <a href="https://gadgetsborrow.netlify.app/" className="icon">
+                                <i className="fab fa-link"></i>
+                                </a>
                                 <p>This banking app helps keep track of your transactions</p> 
                         </div>
                     </div>
@@ -38,7 +42,7 @@ function projects() {
 
                 <div className="portfolio-item">
                     <div className="image">
-                    <img src={conveter} alt='CSS'/>
+                    <img src={metric} alt='CSS'/>
                     </div>
                     <div className="hover-items">
                         <h3>Project Source</h3>
@@ -46,6 +50,9 @@ function projects() {
                             <a href="https://github.com/Creative-Innovators/Inverter-Website" className="icon">
                                 <i className="fab fa-github"></i>
                             </a>
+                            <a href="https://gadgetsborrow.netlify.app/" className="icon">
+                                <i className="fab fa-link"></i>
+                                </a>
                             <p>Metric conveter helps us convert given data to your choice, considering the metrics on our app</p>
                         </div>
                     </div>
@@ -98,6 +105,29 @@ function projects() {
                             <a href="https://github.com/Code-5X/taxCalculator" className="icon">
                                 <i className="fab fa-github"></i>
                             </a>
+
+                            <a href="https://gadgetsborrow.netlify.app/" className="icon">
+                                <i className="fab fa-link"></i>
+                                </a>
+                            <p>Tax calculater helps calculate your salary after tax deductions</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="portfolio-item">
+                    <div className="image">
+                    <img src={calculator} alt='CSS'/>
+                    </div>
+                    <div className="hover-items">
+                        <h3>Project Source</h3>
+                        <div className="icons">
+                            <a href="https://github.com/Code-5X/taxCalculator" className="icon">
+                                <i className="fab fa-github"></i>
+                            </a>
+
+                            <a href="https://gadgetsborrow.netlify.app/" className="icon">
+                                <i className="fab fa-link"></i>
+                                </a>
                             <p>Tax calculater helps calculate your salary after tax deductions</p>
                         </div>
                     </div>

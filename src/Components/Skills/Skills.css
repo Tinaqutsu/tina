@@ -107,6 +107,10 @@
   font-size: 5px;
 }
 
+.stat-title {
+  font-size: 20px;
+}
+
 .about-stats {
   padding-bottom: 4rem;
 }

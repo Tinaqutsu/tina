@@ -5,6 +5,10 @@
     position: relative; /* Adding relative positioning to use absolute positioning for circle and circ */
 }
 
+.about-page h2{
+    font-size:20px;
+}
+
 .pic-container {
     margin-top: 100px;
     margin-right: 500px;
