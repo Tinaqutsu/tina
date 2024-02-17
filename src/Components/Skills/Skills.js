@@ -24,7 +24,7 @@ function Skills() {
 
           <div className="abt-text">
             <div className="image-container">
-              <img src={css} alt='CSS'/>
+              <img src={css} alt='CSS' id ='cssimg'/>
             </div>
             <h3 className="large-text">CSS</h3>
           </div>
