@@ -1,0 +1,21 @@
+.footer {
+   display: flex;
+   background-color: rgb(242, 194, 226);
+  
+  }
+  .footer p{
+    margin-left: 30px;
+    font-size: large;
+
+  }
+  .footer .icons{
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+
+  @media (max-width: 600px) {
+    nav, article {
+      width: 100%;
+      height: auto;
+    }
+  }

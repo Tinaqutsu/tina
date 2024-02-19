@@ -1,5 +1,5 @@
 import React from 'react'
-import Pic from './Photos/Pic.png';
+import Pic from './Photos/pic2.png';
 // import './About.css';
 import './about.css'
 
